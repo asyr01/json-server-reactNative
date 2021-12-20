@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Javascript is so powerful",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "ali",
+      "id": 1
+    },
+    {
+      "title": "React Native is a wonderful library!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)",
+      "author": "ali",
+      "id": 2
+    },
+    {
+      "title": "Programming gives us some flow!",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi, repellat? Et, laborum odit ea fugit nostrum voluptatem explicabo earum minima, ut consequatur ratione consequuntur natus, praesentium sit veritatis corrupti nisi accusantium rerum modi. Totam culpa debitis quos quam, quidem natus aliquid commodi iure sequi sapiente recusandae, tenetur repellat, eius odit fuga non dicta corporis aperiam sint amet officiis error. Magnam, non necessitatibus veniam, provident aspernatur, amet aperiam ad facere commodi ut earum corrupti repudiandae numquam a harum praesentium dolore molestias quasi repellendus accusantium quos ipsum natus consequuntur. Quidem tempore, deleniti deserunt similique distinctio sit. Nam officiis ducimus tenetur nisi magni vel commodi in! Maxime consectetur ipsa molestias, blanditiis inventore nisi similique vel, ducimus odit id sunt consequatur porro tempore tenetur nam totam itaque dolores, quae officiis autem? Ducimus provident repellendus recusandae! Saepe cupiditate repudiandae at beatae, optio iusto qui magnam eum, earum, rem non maiores ad repellat fuga officia atque eius deleniti esse harum. Distinctio maiores iusto voluptate laborum culpa quis sed placeat ducimus modi, repellat earum provident est quisquam deserunt ut ipsam eum ipsa, dolores dolorum dolore voluptates reprehenderit dolor. Veniam cumque in dolorem a doloremque. Facilis voluptas non odio rem nesciunt ex ad doloremque fugit, deleniti ipsam quisquam.",
+      "author": "ali",
+      "id": 3
+    }
+  ]
+}
